@@ -8,12 +8,12 @@ class TestArrayLinked{
 	 public static void main(String args[]){    
 	     
 	  List<String> al=new ArrayList<String>();   
-	  al.add("Vijay");    
-	  al.add("Ravi");    
+	  al.add("Gokul");    
+	  al.add("Ajay");    
 	    
 	  List<String> al2=new LinkedList<String>();    
-	  al2.add("Swati");    
-	  al2.add("Junaid");    
+	  al2.add("Aagash");    
+	  al2.add("Surya");    
 	    
 	  System.out.println("arraylist: "+al);  
 	  System.out.println("linkedlist: "+al2);  
